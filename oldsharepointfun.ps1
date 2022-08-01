@@ -1,4 +1,4 @@
-##Version 3.0 – Date 8-1-22##
+##Version 4.0 – Date 8-1-13##
 
 [Void][System.Reflection.Assembly]::LoadWithPartialName(“Microsoft.SharePoint”)
 Add-PSSnapin Microsoft.SharePoint.PowerShell -EA SilentlyContinue
